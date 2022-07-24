@@ -1,3 +1,10 @@
+/*1]Initialize the variable and assign the hexadecimal value to the variable
+2]write the logic to convert littile endian to big endian
+3]set msb bit and store in another variable and 
+4]do right shift and left shift operation for swapping
+5]then add both and it will store in one variable we get swapped value.set lsb bit by anding operation*/
+
+
 #include<stdio.h>
 int main()
 {
